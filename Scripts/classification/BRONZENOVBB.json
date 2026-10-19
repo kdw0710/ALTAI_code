@@ -1,0 +1,162 @@
+{
+    "AnalogueScanDataPort.num_broken_pixels0": [
+        0,
+        5243
+    ],
+    "AnalogueScanDataPort.num_dead_pixels0": [
+        0,
+        5243
+    ],
+    "AnalogueScanDataPort.num_noisy_pixels0": [
+        0,
+        5243
+    ],
+    "ChipID.chip_id_errors": [
+        0,
+        0
+    ],
+    "DACScan.dac_tests.IBIAS.dA": [
+        2.32,
+        3.1
+    ],
+    "DACScan.dac_tests.IBIAS.inl": [
+        -0.01,
+        0.05
+    ],
+    "DACScan.dac_tests.IDB.dA": [
+        2.32,
+        3.09
+    ],
+    "DACScan.dac_tests.IDB.inl": [
+        -0.01,
+        0.05
+    ],
+    "DACScan.dac_tests.ITHR.dA": [
+        2.32,
+        3.08
+    ],
+    "DACScan.dac_tests.ITHR.inl": [
+        -0.01,
+        0.05
+    ],
+    "DACScan.dac_tests.VCASN.dA": [
+        1.3,
+        2.0
+    ],
+    "DACScan.dac_tests.VCASN.inl": [
+        -0.01,
+        0.1
+    ],
+    "DACScan.dac_tests.VCASN2.dA": [
+        1.3,
+        2.0
+    ],
+    "DACScan.dac_tests.VCASN2.inl": [
+        -0.01,
+        0.1
+    ],
+    "DACScan.dac_tests.VCASP.dA": [
+        1.3,
+        2.0
+    ],
+    "DACScan.dac_tests.VCASP.inl": [
+        -0.01,
+        0.1
+    ],
+    "DACScan.dac_tests.VCLIP.dA": [
+        1.3,
+        2.0
+    ],
+    "DACScan.dac_tests.VCLIP.inl": [
+        -0.01,
+        0.1
+    ],
+    "DACScan.dac_tests.VPULSEH.dA": [
+        1.18,
+        999
+    ],
+    "DACScan.dac_tests.VPULSEH.inl": [
+        -0.01,
+        0.02
+    ],
+    "DACScan.dac_tests.VPULSEL.dA": [
+        1.18,
+        999
+    ],
+    "DACScan.dac_tests.VPULSEL.inl": [
+        -0.01,
+        0.02
+    ],
+    "DACScan.dac_tests.VRESETD.dA": [
+        1.18,
+        999
+    ],
+    "DACScan.dac_tests.VRESETD.inl": [
+        -0.01,
+        0.02
+    ],
+    "DataPort.data_port_errors": [
+        0,
+        0
+    ],
+    "DigitalScan.bad-all": [
+        0,
+        5243
+    ],
+    "DigitalScan.masked-all": [
+        0,
+        5243
+    ],
+    "DigitalScan.stuck-all": [
+        0,
+        5243
+    ],
+    "DigitalScan.unmaskable-all": [
+        0,
+        5243
+    ],
+    "DigitalScan.unpulsable-all": [
+        0,
+        5243
+    ],
+    "FIFOTest.fifo_region_errors": [
+        0,
+        0
+    ],
+    "FakeHitRate.fakerate-100masked": [
+        0,
+        1e-06
+    ],
+    "PowerTest.i_a": [
+        10.42,
+        15.54
+    ],
+    "PowerTest.i_d": [
+        30.6,
+        65.6
+    ],
+    "Registers.errors": [
+        0,
+        0
+    ],
+    "SEU.seus": [
+        0,
+        0
+    ],
+    "ThresholdScanDataPortQueue.stddev_mean_ratio": [
+        0.1,
+        0.5
+    ],
+    "ThresholdScanDataPortQueue.threshold_mean": [
+        2.0,
+        17.5
+    ],
+    "ThresholdScanDataPortQueue.threshold_npix": [
+        419430,
+        524288
+    ],
+    "ThresholdScanDataPortQueue.threshold_stddev": [
+        0.9,
+        3.5
+    ]
+}

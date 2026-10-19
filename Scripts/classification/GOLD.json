@@ -1,0 +1,190 @@
+{
+    "AnalogueScanDataPort.num_broken_pixels0": [
+        0,
+        50
+    ],
+    "AnalogueScanDataPort.num_dead_pixels0": [
+        0,
+        50
+    ],
+    "AnalogueScanDataPort.num_noisy_pixels0": [
+        0,
+        50
+    ],
+    "BackbiasIV.i_a.max": [
+        11.05,
+        17.11
+    ],
+    "BackbiasIV.i_a.mean": [
+        10.18,
+        15.67
+    ],
+    "BackbiasIV.i_d.mean": [
+        44.4,
+        50.06
+    ],
+    "BackbiasIV.i_pwell.3V": [
+        -999,
+        6
+    ],
+    "BackbiasIV.i_pwell.max": [
+        -999,
+        8
+    ],
+    "BackbiasIV.i_pwell.mean": [
+        -999,
+        7
+    ],
+    "BackbiasIV.min_backbias_voltage": [
+        -6,
+        -6
+    ],
+    "ChipID.chip_id_errors": [
+        0,
+        0
+    ],
+    "DACScan.dac_tests.IBIAS.dA": [
+        2.32,
+        3.1
+    ],
+    "DACScan.dac_tests.IBIAS.inl": [
+        -0.01,
+        0.05
+    ],
+    "DACScan.dac_tests.IDB.dA": [
+        2.32,
+        3.09
+    ],
+    "DACScan.dac_tests.IDB.inl": [
+        -0.01,
+        0.05
+    ],
+    "DACScan.dac_tests.ITHR.dA": [
+        2.32,
+        3.08
+    ],
+    "DACScan.dac_tests.ITHR.inl": [
+        -0.01,
+        0.05
+    ],
+    "DACScan.dac_tests.VCASN.dA": [
+        1.5,
+        2.0
+    ],
+    "DACScan.dac_tests.VCASN.inl": [
+        -0.01,
+        0.02
+    ],
+    "DACScan.dac_tests.VCASN2.dA": [
+        1.5,
+        2.0
+    ],
+    "DACScan.dac_tests.VCASN2.inl": [
+        -0.01,
+        0.02
+    ],
+    "DACScan.dac_tests.VCASP.dA": [
+        1.5,
+        2.0
+    ],
+    "DACScan.dac_tests.VCASP.inl": [
+        -0.01,
+        0.03
+    ],
+    "DACScan.dac_tests.VCLIP.dA": [
+        1.5,
+        2.0
+    ],
+    "DACScan.dac_tests.VCLIP.inl": [
+        -0.01,
+        0.02
+    ],
+    "DACScan.dac_tests.VPULSEH.dA": [
+        1.18,
+        999
+    ],
+    "DACScan.dac_tests.VPULSEH.inl": [
+        -0.01,
+        0.02
+    ],
+    "DACScan.dac_tests.VPULSEL.dA": [
+        1.18,
+        999
+    ],
+    "DACScan.dac_tests.VPULSEL.inl": [
+        -0.01,
+        0.02
+    ],
+    "DACScan.dac_tests.VRESETD.dA": [
+        1.18,
+        999
+    ],
+    "DACScan.dac_tests.VRESETD.inl": [
+        -0.01,
+        0.02
+    ],
+    "DataPort.data_port_errors": [
+        0,
+        0
+    ],
+    "DigitalScan.bad-all": [
+        0,
+        50
+    ],
+    "DigitalScan.masked-all": [
+        0,
+        50
+    ],
+    "DigitalScan.stuck-all": [
+        0,
+        50
+    ],
+    "DigitalScan.unmaskable-all": [
+        0,
+        50
+    ],
+    "DigitalScan.unpulsable-all": [
+        0,
+        50
+    ],
+    "FIFOTest.fifo_region_errors": [
+        0,
+        0
+    ],
+    "FakeHitRate.fakerate-10masked": [
+        0,
+        1e-07
+    ],
+    "PowerTest.i_a": [
+        10.42,
+        15.54
+    ],
+    "PowerTest.i_d": [
+        40.0,
+        45.62
+    ],
+    "Registers.errors": [
+        0,
+        0
+    ],
+    "SEU.seus": [
+        0,
+        0
+    ],
+    "ThresholdScanDataPortQueue.stddev_mean_ratio": [
+        0.1,
+        0.3
+    ],
+    "ThresholdScanDataPortQueue.threshold_mean": [
+        2.23,
+        15.33
+    ],
+    "ThresholdScanDataPortQueue.threshold_npix": [
+        519045,
+        524288
+    ],
+    "ThresholdScanDataPortQueue.threshold_stddev": [
+        0.99,
+        2.91
+    ]
+}
