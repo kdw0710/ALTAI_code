@@ -1,0 +1,17 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Logs and operating-system files
+*.log
+.DS_Store
+
+# Local credentials
+.env
+.env.*
+
+# Measurement data and generated outputs
+/testdata/
+/Results/
